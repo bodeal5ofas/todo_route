@@ -1,0 +1,19 @@
+{
+"setting":"الاعدادت",
+"task_list":"قائمة المهام",
+"todo_list":"منظم الاوامر",
+"add_new_task":"اضافه مهمه جديده",
+"enter_task_title":"ادخل عنوان المهمه",
+"enter_task_discription":"ادخل وصف المهمه",
+"select_date":"اختار التاريخ ",
+"add":"اضافه",
+"language":"اللغه",
+"mode":"النمط",
+"arabic":"العربية",
+"english":"الانجلزيه",
+"dark":"مظلم",
+"light":"مضي",
+"edit_task":"تعديل المهمه",
+"task_title":"عنوان المهمه",
+"task_description":"وصف المهمه"
+}
